@@ -1,0 +1,21 @@
+
+
+Q - What is the big O notation for your program?
+
+A - The big O notation for the program is O(n) as there is a loop through all the elements atleast once.
+n is the length of the array of items.
+
+I was able to solve the bonus problem as well and the big O notation for that program is o(n^2) where n is the length of the array of items.
+
+
+EXAMPLE:
+
+I have included the prices.txt file from the question as an example.
+
+Dependencies - Python 3
+
+1) To run the program to get two items on command line - 
+	python find_pair.py prices.txt 2500
+
+2) To run the program to get three items on command line - 
+	python find_three.py prices.txt 2500

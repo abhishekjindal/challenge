@@ -1,0 +1,13 @@
+
+
+Q - What is the big O notation for your program?
+
+A - The big O notation for the program is O(c * 2^n) where c is a constant which is the length of the input string and n is the number of X's in the input string or pattern.
+
+
+EXAMPLE:
+
+Dependencies - Python 3
+
+1) To run the program to get two items on command line - 
+	python myprogram.py XXXXXX
